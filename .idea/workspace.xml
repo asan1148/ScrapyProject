@@ -1,0 +1,1113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/ArticleSpider/pipelines.py" line="56" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ccfe83a0-2724-45da-9570-4cb1f9700a6d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ArticleSpider$middlewares.coverage" NAME="middlewares Coverage Results" MODIFIED="1496909047588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider" />
+    <SUITE FILE_PATH="coverage/ArticleSpider$es_types.coverage" NAME="es_types Coverage Results" MODIFIED="1498727616813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider/models" />
+    <SUITE FILE_PATH="coverage/ArticleSpider$settings.coverage" NAME="settings Coverage Results" MODIFIED="1495421682170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider" />
+    <SUITE FILE_PATH="coverage/ArticleSpider$main.coverage" NAME="main Coverage Results" MODIFIED="1499090754410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ArticleSpider$zhihu_login_requests.coverage" NAME="zhihu_login_requests Coverage Results" MODIFIED="1495070211544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider/utils" />
+    <SUITE FILE_PATH="coverage/ArticleSpider$items.coverage" NAME="items Coverage Results" MODIFIED="1495771066441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider" />
+    <SUITE FILE_PATH="coverage/ArticleSpider$yundama_dama.coverage" NAME="yundama_dama Coverage Results" MODIFIED="1496309515972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider/tools" />
+    <SUITE FILE_PATH="coverage/ArticleSpider$crawl_xici_ip.coverage" NAME="crawl_xici_ip Coverage Results" MODIFIED="1496910156038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider/tools" />
+    <SUITE FILE_PATH="coverage/ArticleSpider$pipelines.coverage" NAME="pipelines Coverage Results" MODIFIED="1494815707249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider" />
+    <SUITE FILE_PATH="coverage/ArticleSpider$lagou.coverage" NAME="lagou Coverage Results" MODIFIED="1495544773029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider/spiders" />
+    <SUITE FILE_PATH="coverage/ArticleSpider$ZhiLian.coverage" NAME="ZhiLian Coverage Results" MODIFIED="1495761106968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider/spiders" />
+    <SUITE FILE_PATH="coverage/ArticleSpider$lagou_login.coverage" NAME="lagou_login Coverage Results" MODIFIED="1498713945197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider/spiders" />
+    <SUITE FILE_PATH="coverage/ArticleSpider$zhihu_yundama.coverage" NAME="zhihu_yundama Coverage Results" MODIFIED="1496308934940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider/spiders" />
+    <SUITE FILE_PATH="coverage/ArticleSpider$zhihu.coverage" NAME="zhihu Coverage Results" MODIFIED="1496365389468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider/spiders" />
+    <SUITE FILE_PATH="coverage/ArticleSpider$Proxies.coverage" NAME="Proxies Coverage Results" MODIFIED="1496906025750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Lib/site-packages/Proxies" />
+    <SUITE FILE_PATH="coverage/ArticleSpider$jobbole.coverage" NAME="jobbole Coverage Results" MODIFIED="1497517036616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider/spiders" />
+    <SUITE FILE_PATH="coverage/ArticleSpider$Proxies__1_.coverage" NAME="Proxies (1) Coverage Results" MODIFIED="1496909518397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArticleSpider/tools" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+              <folding>
+                <element signature="e#37#71#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ArticleSpider/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3344">
+              <caret line="152" column="24" lean-forward="false" selection-start-line="152" selection-start-column="24" selection-end-line="152" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZhiLian.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ArticleSpider/spiders/ZhiLian.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <folding>
+                <element signature="e#24#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ArticleSpider/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="46" lean-forward="false" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+              <folding>
+                <element signature="e#151#167#0" expanded="true" />
+                <element signature="e#4121#4151#0" expanded="false" />
+                <element signature="e#4592#5149#0" expanded="false" />
+                <element signature="e#5188#5811#0" expanded="false" />
+                <element signature="e#5853#7165#0" expanded="false" />
+                <element signature="e#7209#8801#0" expanded="false" />
+                <element signature="e#13467#15563#0" expanded="false" />
+                <element signature="e#13484#14300#0" expanded="false" />
+                <marker date="1499173941344" expanded="true" signature="4645:4937" ph="insert into JobBole... " />
+                <marker date="1499173941344" expanded="true" signature="6234:6615" ph="insert into zhihu_answer... " />
+                <marker date="1499173941344" expanded="true" signature="7578:7988" ph="insert into zhihu_question... " />
+                <marker date="1499173941344" expanded="true" signature="10491:11009" ph="insert into LaGou... " />
+                <marker date="1499173941344" expanded="true" signature="14780:15287" ph="insert into ZhiLian... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="es_types.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ArticleSpider/models/es_types.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+              <folding>
+                <element signature="e#37#66#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Proxies.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ArticleSpider/tools/Proxies.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="946">
+              <caret line="79" column="4" lean-forward="false" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crawl_xici_ip.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ArticleSpider/tools/crawl_xici_ip.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-712">
+              <caret line="56" column="33" lean-forward="true" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="33" />
+              <folding>
+                <element signature="e#37#52#0" expanded="true" />
+                <marker date="1496910155774" expanded="true" signature="1561:1596" ph="delete from " />
+                <marker date="1496910155774" expanded="true" signature="2518:2595" ph="SELECT ip, p... proxy_ip" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>None</find>
+      <find>OBE</find>
+      <find>Join</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ArticleSpider/utils/cookies.txt" />
+        <option value="$PROJECT_DIR$/ArticleSpider/utils/zhihu_login_requests.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/spiders/Cookie.txt" />
+        <option value="$PROJECT_DIR$/ArticleSpider/utils/Cookie.txt" />
+        <option value="$PROJECT_DIR$/ArticleSpider/utils/common.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/Log/Error.log.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/Log/Error_Log.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/Log/Error.log" />
+        <option value="$PROJECT_DIR$/ArticleSpider/spiders/zhihu_nologin.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/tools/yundama_dama.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/spiders/duozhuan.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/spiders/zhihu_yundama.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/tools/IP.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/tools/Proxy_IP.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/tools/Proxy_IP" />
+        <option value="$PROJECT_DIR$/ArticleSpider/tools/Proxies.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/tools/crawl_xici_ip.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/scrapy_redis/dupefilter.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/scrapy_redis/queue.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/spiders/jobbole.py" />
+        <option value="$PROJECT_DIR$/scrapy.cfg" />
+        <option value="$PROJECT_DIR$/scrapy_redis/spiders.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/scrapy_redis/spiders.py" />
+        <option value="$PROJECT_DIR$/../Lib/site-packages/scrapy/spiders/__init__.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/spiders/lagou_login.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/middlewares.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/spiders/zhihu.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/spiders/lagou.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/spiders/ZhiLian.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/settings.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/items.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/pipelines.py" />
+        <option value="$PROJECT_DIR$/ArticleSpider/models/es_types.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1364" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ArticleSpider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ArticleSpider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ArticleSpider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ArticleSpider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ArticleSpider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\python\scrapy\article01\ArticleSpider" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\python\scrapy\article01\ArticleSpider" />
+      <recent name="G:\python\scrapy\article01\ArticleSpider\ArticleSpider\spiders" />
+      <recent name="G:\python\scrapy\article01\ArticleSpider\ArticleSpider" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ArticleSpider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="crawl_xici_ip" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArticleSpider/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ArticleSpider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArticleSpider/tools/crawl_xici_ip.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="jobbole" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArticleSpider/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ArticleSpider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArticleSpider/spiders/jobbole.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="es_types" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArticleSpider/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ArticleSpider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArticleSpider/models/es_types.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="lagou_login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArticleSpider/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ArticleSpider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArticleSpider/spiders/lagou_login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ArticleSpider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ArticleSpider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ArticleSpider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ArticleSpider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="ArticleSpider" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ArticleSpider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ArticleSpider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ArticleSpider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ArticleSpider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ArticleSpider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.crawl_xici_ip" />
+      <item index="2" class="java.lang.String" itemvalue="Python.jobbole" />
+      <item index="3" class="java.lang.String" itemvalue="Python.es_types" />
+      <item index="4" class="java.lang.String" itemvalue="Python.lagou_login" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.es_types" />
+        <item index="2" class="java.lang.String" itemvalue="Python.lagou_login" />
+        <item index="3" class="java.lang.String" itemvalue="Python.jobbole" />
+        <item index="4" class="java.lang.String" itemvalue="Python.crawl_xici_ip" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccfe83a0-2724-45da-9570-4cb1f9700a6d" name="Default" comment="" />
+      <created>1494225163459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1494225163459</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="1" width="1364" height="726" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20705521" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288364" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5531197" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22913256" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7364975" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/spiders/ZhiLian.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/spiders/zhihu_yundama.py</url>
+          <line>154</line>
+          <option name="timeStamp" value="352" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/spiders/zhihu_yundama.py</url>
+          <line>155</line>
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/spiders/zhihu_yundama.py</url>
+          <line>156</line>
+          <option name="timeStamp" value="354" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/spiders/zhihu_yundama.py</url>
+          <line>139</line>
+          <option name="timeStamp" value="355" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/spiders/zhihu_yundama.py</url>
+          <line>142</line>
+          <option name="timeStamp" value="356" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/spiders/zhihu_yundama.py</url>
+          <line>158</line>
+          <option name="timeStamp" value="357" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/spiders/zhihu_yundama.py</url>
+          <line>157</line>
+          <option name="timeStamp" value="358" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/spiders/zhihu_yundama.py</url>
+          <line>141</line>
+          <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/spiders/zhihu_yundama.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="362" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapy_redis/scheduler.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="371" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/spiders/lagou.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="409" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/items.py</url>
+          <line>111</line>
+          <option name="timeStamp" value="410" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/items.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="411" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/items.py</url>
+          <line>109</line>
+          <option name="timeStamp" value="412" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/items.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="413" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/items.py</url>
+          <line>106</line>
+          <option name="timeStamp" value="414" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/items.py</url>
+          <line>107</line>
+          <option name="timeStamp" value="415" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/items.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="416" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/items.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="417" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/items.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="418" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/items.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="419" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/items.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="420" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/items.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="421" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ArticleSpider/settings.py</url>
+          <line>151</line>
+          <option name="timeStamp" value="424" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="426" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/VerificationCode/zhihulogin.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/spiders/duozhuan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="43" column="12" lean-forward="false" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/scrapy/loader/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/Proxies/Proxies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/Proxies/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/tools/IP.py" />
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/tools/Proxy_IP.py" />
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/tools/Proxy_IP">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy_redis/queue.py" />
+    <entry file="file://$PROJECT_DIR$/scrapy_redis/spiders.py" />
+    <entry file="file://$PROJECT_DIR$/scrapy_redis/pipelines.py" />
+    <entry file="file://$PROJECT_DIR$/scrapy_redis/scheduler.py" />
+    <entry file="file://$PROJECT_DIR$/scrapy_redis/connection.py" />
+    <entry file="file://$PROJECT_DIR$/scrapy_redis/dupefilter.py" />
+    <entry file="file://$PROJECT_DIR$/scrapy_redis/scheduler.py" />
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/scrapy_redis/queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1914">
+          <caret line="88" column="11" lean-forward="true" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/elasticsearch_dsl/analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="61" column="31" lean-forward="false" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/elasticsearch_dsl/connections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="59" column="8" lean-forward="false" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/urllib3/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="133" column="31" lean-forward="false" selection-start-line="133" selection-start-column="31" selection-end-line="133" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/scrapy_redis/BloomfilterOnRedis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/scrapy_redis/dupefilter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/spiders/zhihu_yundama.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="61" column="32" lean-forward="false" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/scrapy/http/request/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/scrapy/item.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="100" column="6" lean-forward="false" selection-start-line="100" selection-start-column="6" selection-end-line="100" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/scrapy/crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.egg-info/dependency_links.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.egg-info/SOURCES.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.egg-info/top_level.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.egg-info/entry_points.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy_redis/queue.py" />
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/scrapy/spiders/crawl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-694">
+          <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/importlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2266">
+          <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy_redis/spiders.py" />
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/scrapy_redis/spiders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/spiders/zhihu_nologin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/scrapy/downloadermiddlewares/redirect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1917">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/scrapy/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="72" column="45" lean-forward="true" selection-start-line="72" selection-start-column="45" selection-end-line="72" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/spiders/lagou_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="42" column="27" lean-forward="true" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/spiders/jobbole.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/spiders/zhihu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="34" column="24" lean-forward="false" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/spiders/lagou.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <element signature="e#24#33#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-914">
+          <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+          <folding>
+            <marker date="1499173991488" expanded="false" signature="290:779" ph="..." />
+            <marker date="1499173991488" expanded="true" signature="558:628" ph="insert into JobBole... " />
+            <marker date="1499173991488" expanded="true" signature="1762:1893" ph="insert into JobBole... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3344">
+          <caret line="152" column="24" lean-forward="false" selection-start-line="152" selection-start-column="24" selection-end-line="152" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="46" lean-forward="false" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+          <folding>
+            <element signature="e#151#167#0" expanded="true" />
+            <element signature="e#4121#4151#0" expanded="false" />
+            <element signature="e#4592#5149#0" expanded="false" />
+            <element signature="e#5188#5811#0" expanded="false" />
+            <element signature="e#5853#7165#0" expanded="false" />
+            <element signature="e#7209#8801#0" expanded="false" />
+            <element signature="e#13467#15563#0" expanded="false" />
+            <element signature="e#13484#14300#0" expanded="false" />
+            <marker date="1499173941344" expanded="true" signature="4645:4937" ph="insert into JobBole... " />
+            <marker date="1499173941344" expanded="true" signature="6234:6615" ph="insert into zhihu_answer... " />
+            <marker date="1499173941344" expanded="true" signature="7578:7988" ph="insert into zhihu_question... " />
+            <marker date="1499173941344" expanded="true" signature="10491:11009" ph="insert into LaGou... " />
+            <marker date="1499173941344" expanded="true" signature="14780:15287" ph="insert into ZhiLian... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/spiders/ZhiLian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/models/es_types.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding>
+            <element signature="e#37#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/tools/Proxies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="79" column="4" lean-forward="false" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArticleSpider/tools/crawl_xici_ip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-712">
+          <caret line="56" column="33" lean-forward="true" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="33" />
+          <folding>
+            <element signature="e#37#52#0" expanded="true" />
+            <marker date="1496910155774" expanded="true" signature="1561:1596" ph="delete from " />
+            <marker date="1496910155774" expanded="true" signature="2518:2595" ph="SELECT ip, p... proxy_ip" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding>
+            <element signature="e#37#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
